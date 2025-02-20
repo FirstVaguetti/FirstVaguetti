@@ -1,4 +1,4 @@
-###👨🏻‍💻 Hello I'm Vaguetti
+#👨🏻‍💻 Hello I'm Vaguetti
 
 I am a young and creative ADS student, always looking to improve and grow in the world of programming. I am learning to use new tools and diving deeper into this exciting field!
 
